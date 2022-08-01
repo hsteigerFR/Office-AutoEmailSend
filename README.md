@@ -20,3 +20,5 @@ HOW TO USE :
 - Outlook may encounter issues if a metered connection is used /!\ (it will wait for a non-metered connection to send the emails). It can be disabled in your current connection's Windows properties.
 - Click on the "START" blue button. The "Message sent" row should start filling with OKs, for each mail sent.
 - If there is a crash during the process, changing the "Start:" number can enable to restart from where the crash occured.
+
+The solution was tested on : Microsoft Windows 10 Home, Version 10.0.19043 Build 19043 (x64)
