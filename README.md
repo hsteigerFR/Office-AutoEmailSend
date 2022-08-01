@@ -1,5 +1,9 @@
 # Office - Auto Email Send
 
+Author : Hugo Steiger
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The goal of this project is to send customized emails to a given mail list. The solution was created to help Mines Nancy school's administration send transcripts to the students faster. It was also used to get customized informations from the students as regards Mines Nancy N18's graduation ceremony, where a Powerpoint presentation was created. The strategy of the solution is the following : 
 - The solution uses Microsoft Outlook, that Excel can connect to
 - Each mail sent by Outlook is a form that Excel can fill with VBA : email adress, message, embedded files etc...
@@ -10,6 +14,8 @@ The goal of this project is to send customized emails to a given mail list. The 
 This process is illustrated below. The scenario of a school administration, sending GPAs and transcripts to the students, is the one shared in this repository :
 
 ![AutoSendMail](https://user-images.githubusercontent.com/106969232/182213171-d7812203-b056-4396-afc4-647929481204.JPG)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 HOW TO USE :
 - Set-up Microsoft Outlook : a Microsoft compatible address will be required /!\.
